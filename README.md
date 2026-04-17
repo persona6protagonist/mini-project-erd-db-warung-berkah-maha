@@ -1,4 +1,4 @@
-# mini-project-erd-db-warung-berkah-maha
+# mini-project-erd-db-warung-berkah-maha aryanatha
 # Mini Project ERD & Database
 
 ## Identitas Mahasiswa
